@@ -1,6 +1,6 @@
 {
-  "name": "2b2t-tor-proxy-bot",
-  "version": "1.0.0",
+  "name": "tor-connected-queue-bot",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
