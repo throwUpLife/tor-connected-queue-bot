@@ -1,0 +1,5 @@
+/package-lock.json
+/secret.json
+/bot_tokens.json
+/node_modules/
+/.idea/
